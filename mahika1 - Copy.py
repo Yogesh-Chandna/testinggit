@@ -1,4 +1,4 @@
-print ("hello world mahika")
+print ("hello world mahika PRAC-2")
 #<<<<<<< HEAD
 
 print ("cloned repo from desktop to github")
